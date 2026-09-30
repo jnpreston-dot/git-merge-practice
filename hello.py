@@ -1,4 +1,3 @@
 def greet():
-    print("Status: not started")
-
+ print("Status: blocked")
 greet()
