@@ -1,4 +1,4 @@
 def greet():
-    print("Status: not started")
+    print("Status: in progress")
 
 greet()
